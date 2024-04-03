@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Inizio",
+    "location": "Laureles-Estadio, Medellin",
+    "country": "Colombia",
+    "state": "Antioquia",
+    "city": "Medellin",
+    "contact": {
+      "prefix": 12,
+      "phone": 2123213,
+      "web": "https://www.hotelinizio.com"
+    },
+    "rooms": [
+      {
+        "beds": ["1 double bed", "1 large double bed"],
+        "price_day": 308400,
+        "squares": 15,
+        "description": ["garden view", "Air conditioning", "patio", "Flat-screen TV", "Terrace", "Free WiFi"],
+        "number_of_guest": 2,
+        "total_rooms": 2,
+        "rooms": {
+          "1": {
+            "status": "available",
+            "reservations": []
+          },
+          "2": {
+            "status": "available",
+            "reservations": []
+          }
+        }
+      }
+    ]
+  },{
+  "id": 2,
+  "name": "Gran Colombia",
+  "location": "Chapinero, Bogotá",
+  "country": "Colombia",
+  "state": "Bogotá D.C.",
+  "city": "Bogotá",
+  "contact": {
+    "prefix": 12,
+    "phone": 2123213,
+    "web": "https://www.grancolombiahotel.com"
+  },
+  "rooms": [
+    {
+      "beds": ["2 single beds"],
+      "price_day": 200000,
+      "squares": 20,
+      "description": ["City view", "Air conditioning", "Mini-bar", "Flat-screen TV", "Free WiFi"],
+      "number_of_guest": 2,
+      "total_rooms": 3,
+      "rooms": {
+        "1": {
+          "status": "available",
+          "reservations": []
+        },
+        "2": {
+          "status": "available",
+          "reservations": []
+        },
+        "3": {
+          "status": "available",
+          "reservations": []
+        }
+      }
+    }
+  ]
+},
+  {
+    "id": 3,
+    "name": "Cali Comfort",
+    "location": "Granada, Cali",
+    "country": "Colombia",
+    "state": "Valle del Cauca",
+    "city": "Cali",
+    "contact": {
+      "prefix": 12,
+      "phone": 2123213,
+      "web": "https://www.calicomforthotel.com"
+    },
+    "rooms": [
+      {
+        "beds": ["1 queen bed"],
+        "price_day": 180000,
+        "squares": 18,
+        "description": ["City view", "Air conditioning", "Mini-bar", "Free WiFi"],
+        "number_of_guest": 2,
+        "total_rooms": 2,
+        "rooms": {
+          "1": {
+            "status": "available",
+            "reservations": []
+          },
+          "2": {
+            "status": "available",
+            "reservations": []
+          }
+        }
+      }
+    ]
+  },{
+  "id": 4,
+  "name": "Bucaramanga Hills",
+  "location": "Cabecera del Llano, Bucaramanga",
+  "country": "Colombia",
+  "state": "Santander",
+  "city": "Bucaramanga",
+  "contact": {
+    "prefix": 12,
+    "phone": 2123213,
+    "web": "https://www.bucaramangahills.com"
+  },
+  "rooms": [
+    {
+      "beds": ["2 single beds"],
+      "price_day": 220000,
+      "squares": 25,
+      "description": ["Mountain view", "Air conditioning", "Mini-fridge", "Free WiFi"],
+      "number_of_guest": 2,
+      "total_rooms": 3,
+      "rooms": {
+        "1": {
+          "status": "available",
+          "reservations": []
+        },
+        "2": {
+          "status": "available",
+          "reservations": []
+        },
+        "3": {
+          "status": "available",
+          "reservations": []
+        }
+      }
+    }
+  ]
+}
+]
